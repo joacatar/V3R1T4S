@@ -1,0 +1,10 @@
+# A390087 a(8)-a(9) from Joao Tarira, 2026-10-30. Extends the synthesized b-file that ended at a(7)=30.
+1 1
+2 4
+3 6
+4 11
+5 16
+6 23
+7 30
+8 39
+9 48
